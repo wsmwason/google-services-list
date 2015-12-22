@@ -1,11 +1,11 @@
 // ==UserScript==
-// @name        Google Service List
-// @namespace   wsmwason.google.service.list
+// @name        Google Services List
+// @namespace   wsmwason.google.services.list
 // @description List all Google services on support page, and auto redirect to product url.
 // @include     https://support.google.com/*
 // @require     http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
 // @auther      wsmwason
-// @version     1.0
+// @version     1.1
 // @license     MIT
 // @grant       none
 // ==/UserScript==
