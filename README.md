@@ -18,5 +18,5 @@ When enabled this script, all service help page will open new tab and auto redir
 
 ### History
 
-    2015/12/22 v1.0
-    -- Release v1.0
+    2015/12/22 v1.1
+    -- Release v1.1
